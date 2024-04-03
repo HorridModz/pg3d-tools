@@ -213,7 +213,7 @@ User Skins:
 Plist for Skin Names:
     <key>User Name Skins</key>
     <string>{{'1001': {skinname}}}</string>
-Current Equiped Skin:
+Current Equipped Skin:
     <key>Name Current Skin</key>
     <string>1001</string>
 \nUsage: Replace the lines in the plist with the lines generated PG3D Tools\nhttps://github.com/YeetDisDude/\nMade by: YeetDisDude'''
